@@ -1,4 +1,4 @@
-### Hi there 👋
+* Hello 👋
 
 - 🔭 I’m currently working on: a spaced repetition based programming learning platform
 - 🌱 I’m currently learning: Elixir
