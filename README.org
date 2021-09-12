@@ -1,7 +1,7 @@
 * Hello 👋
 
-- 🔭 I’m currently working on: a spaced repetition based programming learning platform
-- 🌱 I’m currently learning: Elixir
+- 🔭 I’m currently working on: an note-taking app for bridging browsers and Emacs
+- 🌱 I’m currently learning: Nix/NixOS
 - 👯 I’m looking to collaborate on: open source projects in the personal knowledge management space
 - 🤔 I’m looking for help with: Haskell
 - 📫 How to reach me: [[https://t.me/dit7ya][Telegram: Contact @dit7ya]]
