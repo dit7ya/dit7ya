@@ -1,6 +1,6 @@
 * Hello 👋
 
-- 🔭 I’m currently working on: an note-taking app for bridging browsers and Emacs
+- 🔭 I’m currently working on: a note-taking app for bridging browsers and Emacs org-mode
 - 🌱 I’m currently learning: Nix/NixOS
 - 👯 I’m looking to collaborate on: open source projects in the personal knowledge management space
 - 🤔 I’m looking for help with: Haskell
