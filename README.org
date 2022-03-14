@@ -1,10 +1,10 @@
-* Hi!
+*** Hi!
 
 I am interested in high-quality personal tooling, functional programming, and free/libre software. 
 
-I am currently using *NixOS* on *Wayland* with the *Sway* tiling window manager. I heavily use the terminal and [[https://github.com/hlissner/doom-emacs/][Doom Emacs]], and try to do [[https://github.com/tridactyl/tridactyl][everything]] with the keyboard. I am slowly transitioning to self-hosting many of the services I use - currently a [[https://gitea.io/en-us/][Git Forge]], a [[https://www.wireguard.com/][VPN]], a couple of [[https://github.com/mat-1/metasearch][search]] [[https://github.com/searxng/searxng][engines]], a privacy-friendly [[https://github.com/spikecodes/libreddit][reddit frontend]], and a [[https://github.com/calendso/calendso][scheduling tool]].
+I am currently using *NixOS* on *Wayland* with the *Sway* tiling window manager. I heavily use the terminal and [[https://github.com/hlissner/doom-emacs/][Doom Emacs]], and try to do [[https://github.com/tridactyl/tridactyl][everything]] with the keyboard. I am slowly transitioning to self-hosting many of the services I use - currently a [[https://maddy.email/][mail server]], a [[https://github.com/dani-garcia/vaultwarden][password manager]], a [[https://gitea.io/en-us/][git forge]], a [[https://www.wireguard.com/][VPN]], a couple of [[https://github.com/mat-1/metasearch][search]] [[https://github.com/searxng/searxng][engines]], a privacy-friendly [[https://github.com/spikecodes/libreddit][reddit frontend]], and a [[https://github.com/calendso/calendso][scheduling tool]].
 
-I believe code forge (such as GitHub) *stars are an underrated way of discovering software*. I have found many of the tools and libraries that I use all the time via following some [[https://github.com/dit7ya?tab=following][very interesting folks]] here. You can browse my stars here or in a website I created abusing GitHub actions and GitHub's *GraphQL* API- https://startables.netlify.app/.
+I believe code forge (such as GitHub) *stars are an underrated way of discovering software*. I have found many of the tools and libraries that I use all the time via following some [[https://github.com/dit7ya?tab=following][very interesting folks]] here. You can browse my stars here or in a [[https://startables.netlify.app/][website]] I created abusing GitHub actions and GitHub's GraphQL API.
 
 I intend to maintain a couple of packages for Nix/NixOS. Apart from that, see my pinned repositories below for interesting things I have written.
 
