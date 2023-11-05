@@ -1,6 +1,3 @@
 ```
-Only themselves understand themselves and the like of themselves,
-As souls only understand souls.
-
-— Walt Whitman —
+What the caterpillar calls the end of the world, the rest of the world calls a butterfly.
 ```
