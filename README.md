@@ -1,3 +1,2 @@
 ```
-What the caterpillar calls the end of the world, the rest of the world calls a butterfly.
-```
+Butterflies don't hang out with caterpillars, vampires don't give lectures to humans.```
