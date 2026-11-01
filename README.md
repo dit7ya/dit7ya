@@ -4,7 +4,7 @@ I'm a generalist software engineer based in Berlin, Germany.
 
 I thrive in high-agency, low-bullshit environments, and I love taking on challenging problems.
 
-I have a master's degree in mathematics, did research in AI alignment back in 2018, built a cybersecurity startup's platform from scratch, co-founded a bold startup, and maintained about 100 packages in the nixpkgs ecosystem.
+I have a master's degree in mathematics, did research in AI alignment back in 2018, built a cybersecurity startup's platform from scratch, co-founded a startup and built its product end to end, and maintained about 100 packages in the nixpkgs ecosystem.
 
 Some of my areas of expertise: frontend, full-stack development, machine learning, and AI-native engineering.
 
