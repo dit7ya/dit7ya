@@ -12,6 +12,11 @@ I'm looking for work. If you're building something ambitious and think I could h
 
 [CV](https://shayon.work/cv.pdf)
 
+A couple of recent fun side projects:
+
+- [Black October](https://blackoctober.report/): an interactive look at a month of cybersecurity stories on Hacker News.
+- [Hacker Again](https://hackeragain.com/): people keep building sites that collect things from Hacker News. I made a site that collects those sites.
+
 ---
 
 "The telos of technology, we might say, is to allow us to accomplish more with less effort. If we extrapolate this internal directionality to its logical terminus, we arrive at a condition in which we can accomplish everything with no effort."
